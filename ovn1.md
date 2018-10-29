@@ -79,8 +79,6 @@ func main() {
     // TODO: Get the subtotals from the channel and print their sum.
 }
 ```
-See: [twopartsum.go](code/twopartsum.go) for source code to modify.
-
 ---
 
 Please commit any written answers or diagrams to the "docs" folder as a PDF (or Markdown) document, and commit any code developed to the "code" folder of your KTH Github repo. Remember to push to KTH Github before your exercise.

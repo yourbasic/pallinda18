@@ -15,5 +15,5 @@ Lösningar skall vara inlämnade **innan övningen börjar**.
 Vid övningen ska du vara beredd att muntligt presentera och diskutera dina lösningar och din programkod.
 
 - [Övning 1](https://github.com/yourbasic/pallinda18/blob/master/ovn1.md)
-- [Övning 2](https://github.com/yourbasic/pallinda18/blob/master/ovn2.md)
-- [Övning 3](https://github.com/yourbasic/pallinda18/blob/master/ovn3.md)
+- Övning 2
+- Övning 3

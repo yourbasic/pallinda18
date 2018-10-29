@@ -1,5 +1,4 @@
 # pallinda18
-DD1396 ht 18
 
 ### Övningar [DD1396](https://www.kth.se/social/course/DD1396/) Parallellprogrammering i introduktion till datalogi 2018
 

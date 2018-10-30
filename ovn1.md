@@ -23,6 +23,7 @@ Study the following course literature:
 - Take a look at [An Introduction to Programming in Go](https://www.golang-book.com/books/intro) for more info
 - Read the following from the [Step-by-step guide to concurrency](http://yourbasic.org/golang/concurrent-programming/)
   - [Goroutines](http://yourbasic.org/golang/goroutines-explained/)
+  - [Channels](https://yourbasic.org/golang/goroutines-explained/)
 
 ### Task 1 - Go Environment
 

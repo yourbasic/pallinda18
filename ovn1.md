@@ -3,6 +3,20 @@
 ### Deadline:
 This work should be completed before the exercise on **Friday 2nd March**.
 
+Samtliga uppgifter på kursen ska lämnas in på
+[organisationen dd1396-ht18 på KTH GitHub](https://gits-15.sys.kth.se/dd1396-ht18).
+Repos för de tre övningarna finns **snart** på plats och heter `username-ovnx`.
+Användaren `nisse` finner alltså sitt repo för övning 1 på
+[https://gits-15.sys.kth.se/pallinda18/nisse-ovn1](https://gits-15.sys.kth.se/dd1396-ht18/nisse-ovn1).
+
+Gör (minst) en fil per uppgift. Utgå från mallarna i
+[/pallinda18/ovn0/](https://github.com/yourbasic/pallinda18/tree/master/ovn0).
+Lösningar skall vara inlämnade **innan övningen börjar**.
+
+- Vid övningen ska du vara beredd att muntligt presentera och diskutera dina lösningar och din programkod.
+- Uppgifter märkta med HANDIN ska ockå lämnas in skriftligt innan övningens start.
+
+
 ### Homework
 Study the following course literature:
 
@@ -35,7 +49,7 @@ Remember to format your code.  Go has a unapologetic tool built-in that will ref
 
     $ go fmt
 
-### Task 3 - Alarm Clock
+### Task 3 - Alarm Clock (HANDIN)
 
 In this task you will explore time functions using Go.  Write a function `Remind(text string, delay time.Duration)` that will print the following output:
 
@@ -57,7 +71,7 @@ select { }
 
 In order to access time related functions, you should investigate the [time package](https://golang.org/pkg/time/), and discover how to get the current time in Go and also how you can format it neatly for human users to understand.  Remember to test and format your code.
 
-### Task 4 - Two Part Sum
+### Task 4 - Two Part Sum (HANDIN)
 
 In this task you will complete the following partial program.  It adds all of the numbers in an array by splitting the array in half, then having two Go routines take care of each half.  Partial results are then sent over a channel.  Remember to test and format your code.
 
@@ -79,6 +93,3 @@ func main() {
     // TODO: Get the subtotals from the channel and print their sum.
 }
 ```
----
-
-Please commit any written answers or diagrams to the "docs" folder as a PDF (or Markdown) document, and commit any code developed to the "code" folder of your KTH Github repo. Remember to push to KTH Github before your exercise.

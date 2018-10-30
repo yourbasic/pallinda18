@@ -41,10 +41,6 @@ In this task we shall follow the online exercises hosted on [A Tour of Go](http:
 - [Maps](http://tour.golang.org/moretypes/23)
 - [Fibbonacci Closure](http://tour.golang.org/moretypes/26)
 
-To finish with, you should become familiar with Go's unit testing framework.  Try the example given in [Chp 12](https://www.golang-book.com/books/intro/12) of the Go book.  You can execute the tests as follows:
-
-    $ go test
-
 Remember to format your code.  Go has a unapologetic tool built-in that will reformat your code according to a set of style rules made by the designers of the language. To run the format utility, use the following command for all submissions:
 
     $ go fmt

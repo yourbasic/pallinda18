@@ -1,6 +1,5 @@
 # Övning 1 pallinda18
 
-### Deadline:
 This work should be completed before the exercise on **Friday 2nd March**.
 
 Samtliga uppgifter på kursen ska lämnas in på

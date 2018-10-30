@@ -31,7 +31,7 @@ The first task is to determine that you have a functioning Go environment on the
 - On a KTH computer - Go should be installed and ready to use
 - On your own computer - Goto the [downloads page](https://golang.org/dl/) for and follow the installation instructions for your preferred operating system.
 
-### Task 2 - A Tour of Go
+### Task 2 - A Tour of Go (HANDIN)
 
 In this task we shall follow the online exercises hosted on [A Tour of Go](http://tour.golang.org/welcome/1).  Start at the beginning and read through the tutorial. You are expected to submit solutions for the following exercises:
 

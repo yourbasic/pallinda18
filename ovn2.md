@@ -25,7 +25,7 @@ Study the following course literature:
   - [Detecting data races](http://yourbasic.org/golang/detect-data-races/)
   - [Deadlock](http://yourbasic.org/golang/detect-deadlock/)
 
-### Task 1 - Debugging Concurrent Programs
+### Task 1 - Debugging Concurrent Programs (HANDIN)
 
 Explain what is wrong in the code below, and then fix the code so that all data really passes
 through the channel and gets printed.
@@ -71,7 +71,7 @@ func Print(ch <-chan int) {
 ```
 See: [bug02.go](code/bug02.go) for source code to modify.
 
-### Task 2 - Many Senders; Many Receivers
+### Task 2 - Many Senders; Many Receivers (HANDIN)
 
 The program [many2many.go](code/many2many.go) contains four producers that together send 32 strings over a channel.
 At the other end there are two consumers that receive the strings.
@@ -86,7 +86,7 @@ Try first to reason your way through, and then test your hypothesis by changing 
 
 Finally, modify the code by adding a new WaitGroup that waits for all consumers to finish.
 
-### Task 3 - Pythia, the Oracle of Delphi
+### Task 3 - Pythia, the Oracle of Delphi (HANDIN)
 
 The code in [oracle.go](code/oracle.go) contains the outline for a program that will answer 'questions'.
 Complete the `Oracle` function.  You should not modify the `main` function or other function signatures.

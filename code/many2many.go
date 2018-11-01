@@ -51,7 +51,7 @@ func Consume(id string, ch <-chan string) {
 	}
 }
 
-// RandomSleep waits for x ms, where x is a random number, 0 â‰¤ x < n,
+// RandomSleep waits for x ms, where x is a random number, 0 ≤ x < n,
 // and then returns.
 func RandomSleep(n int) {
 	time.Sleep(time.Duration(rand.Intn(n)) * time.Millisecond)

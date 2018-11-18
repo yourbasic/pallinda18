@@ -21,6 +21,7 @@ Study the following course literature:
 - Read the following from the [Step-by-step guide to concurrency](http://yourbasic.org/golang/concurrent-programming/)
   - [Mutual exclusion](http://yourbasic.org/golang/mutex-explained/)
   - [Efficient parallel computation](http://yourbasic.org/golang/efficient-parallel-computation/)
+  - [Create a new image](https://yourbasic.org/golang/create-image/)
   - [HTTP server example](https://yourbasic.org/golang/http-server-example/)
 
 ### Task 1 - Matching Behaviour (HANDIN)

@@ -1,4 +1,3 @@
-// http://www.nada.kth.se/~snilsson/concurrency/
 package main
 
 import (

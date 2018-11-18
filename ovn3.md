@@ -31,7 +31,7 @@ Take a look at the program [matching.go](code/matching.go). Explain what happens
   * What happens if you remove the buffer on the channel match?
   * What happens if you remove the default-case from the case-statement in the `main` function?
 
-Hint: Think about the order of the instructions and what happens with arrays of different lengths.
+> **Hint:** Think about the order of the instructions and what happens with arrays of different lengths.
 
 ### Task 2 - Fractal Images (HANDIN)
 
@@ -41,7 +41,7 @@ You can also make changes to the program, such as using different functions and 
 
 How many CPUs does you program use? How much faster is your parallel version?
 
-> **Assistant's note:** In more recent versions of Golang (since 1.5), the runtime will default to use as many operating system threads as it is allowed. To see differences in behaviour, refer to the [GOMAXPROCS](https://golang.org/pkg/runtime/#GOMAXPROCS) function and vary the value.
+> **Hint:** In more recent versions of Golang (since 1.5), the runtime will default to use as many operating system threads as it is allowed. To see differences in behaviour, refer to the [GOMAXPROCS](https://golang.org/pkg/runtime/#GOMAXPROCS) function and vary the value.
 
 ### Task 3 - Weather station (HANDIN)
 
